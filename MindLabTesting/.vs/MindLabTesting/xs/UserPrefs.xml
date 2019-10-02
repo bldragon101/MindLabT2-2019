@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{35794877-D0C3-63CC-09C0-D441FF71027C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SaveLoad.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ObjectManipulationPointer.cs" Line="80" Column="1" />
+      <File FileName="Assets/SaveLoad.cs" Line="24" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MindLabTesting" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="SaveLoad.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c7d63bc5-0dee-4509-8975-4dd141841f9f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
